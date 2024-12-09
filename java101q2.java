@@ -17,6 +17,5 @@ public class java101q2 {
         for (int num : reverseNumbers){
             System.out.print(num +" ");
         }
-        
     }
 }
